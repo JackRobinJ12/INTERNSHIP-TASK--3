@@ -11,5 +11,6 @@ The chat server and client program you have is a simple Java-based messaging sys
 
 
 **OUTPUT**:
-
-
+![Image](https://github.com/user-attachments/assets/d05051e6-fbf0-4d65-b141-726b57954d9c)
+![Image](https://github.com/user-attachments/assets/c4e00973-5f08-4d8e-8ea2-974169e78e8e)
+![Image](https://github.com/user-attachments/assets/6ef0cc39-ca30-4962-9973-a5988d19aacf)
